@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6520fb4b-3009-4894-b6e1-1c5017d3c9ab/resourceGroups/DimDimResources/providers/Microsoft.Web/sites/dimdim-wizzer",
+    "appService.deploySubpath": "."
+}
